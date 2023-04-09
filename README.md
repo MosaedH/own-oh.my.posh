@@ -6,3 +6,4 @@ You can install oh-my-posh from this doc: https://ohmyposh.dev/docs/installation
 To make it esay to install oh-my-posh use ("brew" Package Manager).</br>
 
 # My own prompt style
+https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/atomic.omp.json
